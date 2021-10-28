@@ -1,0 +1,30 @@
+
+
+.aboutpic
+{
+    height:415px;
+    width:220px;
+    margin-top:70px;
+    border-radius: 10%;
+    box-shadow: #333 5px 5px 8px;
+    border-width: 2px;
+    border-style: outset;
+   
+
+}
+.para
+{
+    margin-top:70px;
+ margin-right: 60px;
+margin-left: 20px;
+font-size:20px;
+line-height:1.5rem;
+ text-align: justify;
+}
+h1{
+   font-family: 'Lobster', cursive;
+   text-shadow:lightgray 3px 3px 3px;
+   margin-bottom: 2px;
+}
+
+ 

@@ -1,0 +1,36 @@
+.main
+{
+   background-color: lavender;
+
+}
+#name
+{
+    color: white;
+    font-size: 1.5rem;
+    
+}
+#title
+{
+    color:red;
+    font-size: 1.5rem;
+    
+    
+}
+ 
+  #menu
+  {
+      color:white;
+      text-shadow: honeydew 2px 2px 2px;
+  }
+  #menu:hover
+  {
+      font-size:20px ;
+      font-family: 'IM Fell English SC', serif;
+      color: lavender;
+       text-shadow: w 2px 2px 3px;
+  }
+  .menucont
+  {
+      float:right;
+  }
+  
